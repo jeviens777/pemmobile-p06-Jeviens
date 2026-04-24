@@ -1,7 +1,7 @@
 # ShopList App - Pemrograman Mobile Pertemuan 6
 
 ## Nama & NIM
-- Nama: Jeviens paradisa Finie Adena
+- Nama: Jeviens Paradisa Finie Adena
 - NIM: 243303621213
 
 ## Fitur yang Diimplementasikan
